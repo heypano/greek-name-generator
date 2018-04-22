@@ -1,0 +1,26 @@
+{
+  "name": "greek-name-generator",
+  "version": "1.0.0",
+  "description": "JS package to generate greek names",
+  "main": "greekNames.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heypano/greek-name-generator.git"
+  },
+  "keywords": [
+    "greek",
+    "name",
+    "generator",
+    "language",
+    "random"
+  ],
+  "author": "Pano Papadatos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heypano/greek-name-generator/issues"
+  },
+  "homepage": "https://github.com/heypano/greek-name-generator#readme"
+}
